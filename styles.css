@@ -1,0 +1,65 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #DBE9EE;
+}
+
+
+li {
+  display: inline;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  padding: 8px;
+  text-decoration: none;
+}
+
+CWRE-Logo.png
+
+li a {
+  text-decoration: none;
+}
+a: active {
+  color: white;
+}
+
+#banner {
+  background-image: url("https://scontent.fnyc1-1.fna.fbcdn.net/v/t1.0-9/21192698_528464077495897_1674009177088200246_n.jpg?oh=da7918a15b33df9218670aead8aac843&oe=5AF9AC92" );
+  background-position: center bottom;
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+#main {
+  margin: 0 auto;
+}
+
+h1 {
+  color:  #004E89;
+  font-size: 45px;
+  font-weight: 360;
+  text-align: center;
+  font-family: 'Yantramanav', sans-serif;
+
+}
+
+h3{
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-align: center;
+
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
+
+
+.button {
+
+}
